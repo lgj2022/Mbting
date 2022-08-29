@@ -36,11 +36,6 @@
 
 
 
-## 🎞UCC
-
-- [MBTIng UCC 링크]()
-
-
 
 ## 📌주요기능
 
@@ -86,25 +81,6 @@
 
 <img src="./exec/images/mbti-graph.gif" alt="mbti-graph" style="zoom:80%;" />
 
-
-
-## 🌱 개발 환경
-
-<img src="./exec/images/stack.png" alt="stack" style="zoom: 80%;" />
-
-- [개발 환경 상세 문서](./exec/how-to-build-and-deploy.md)
-
-
-
-## 📝 기획/설계 문서
-
-- [기획/설계 문서](./exec/plan.md)
-
-
-
-## 💻 서비스 배포 문서
-
-- [서비스 배포 문서](./exec/how-to-run-on-dev-local.md)
 
 
 
